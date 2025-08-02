@@ -115,11 +115,15 @@
             align-items: center;
             justify-content: center;
             overflow: hidden;
+            object-fit: cover;
         }
         
-        .hero-img i {
+        .hero-img img {
             font-size: 6rem;
             color: #aaa;
+            width: 100%;
+            height: 100%;
+            object-fit: cover;
         }
         
         .btn {
