@@ -259,7 +259,7 @@
             border-radius: 4px;
             margin-top: 5px;
             overflow: hidden;
-            max-width: 500px; /* Add this to enforce max uniform length */
+            max-width: 150px; /* Add this to enforce max uniform length */
             margin: 0 auto;   /* Optional: center the bar */
         }
         
