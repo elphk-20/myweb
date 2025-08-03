@@ -260,7 +260,7 @@
             margin-top: 5px;
             overflow: hidden;
             max-width: 150px; /* Add this to enforce max uniform length */
-            margin: 0 auto;   /* Optional: center the bar */
+            /*margin: 0 auto;    Optional: center the bar */
         }
         
         .skill-level {
